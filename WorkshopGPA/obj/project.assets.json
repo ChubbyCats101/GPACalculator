@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\งานวิชาต่างๆ\\GitCats\\WorkshopGPA\\WorkshopGPA\\WorkshopGPA\\WorkshopGPA\\WorkshopGPA.csproj",
+      "projectUniqueName": "D:\\งานวิชาต่างๆ\\GitCats\\WorkshopGPA\\WorkshopGPA\\GPACalculator\\WorkshopGPA\\WorkshopGPA.csproj",
       "projectName": "WorkshopGPA",
-      "projectPath": "D:\\งานวิชาต่างๆ\\GitCats\\WorkshopGPA\\WorkshopGPA\\WorkshopGPA\\WorkshopGPA\\WorkshopGPA.csproj",
+      "projectPath": "D:\\งานวิชาต่างๆ\\GitCats\\WorkshopGPA\\WorkshopGPA\\GPACalculator\\WorkshopGPA\\WorkshopGPA.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\งานวิชาต่างๆ\\GitCats\\WorkshopGPA\\WorkshopGPA\\WorkshopGPA\\WorkshopGPA\\obj\\",
+      "outputPath": "D:\\งานวิชาต่างๆ\\GitCats\\WorkshopGPA\\WorkshopGPA\\GPACalculator\\WorkshopGPA\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
