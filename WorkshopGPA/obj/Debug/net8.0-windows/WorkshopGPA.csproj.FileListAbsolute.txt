@@ -1,0 +1,17 @@
+D:\งานวิชาต่างๆ\GitCats\WorkshopGPA\WorkshopGPA\WorkshopGPA\WorkshopGPA\bin\Debug\net8.0-windows\WorkshopGPA.exe
+D:\งานวิชาต่างๆ\GitCats\WorkshopGPA\WorkshopGPA\WorkshopGPA\WorkshopGPA\bin\Debug\net8.0-windows\WorkshopGPA.deps.json
+D:\งานวิชาต่างๆ\GitCats\WorkshopGPA\WorkshopGPA\WorkshopGPA\WorkshopGPA\bin\Debug\net8.0-windows\WorkshopGPA.runtimeconfig.json
+D:\งานวิชาต่างๆ\GitCats\WorkshopGPA\WorkshopGPA\WorkshopGPA\WorkshopGPA\bin\Debug\net8.0-windows\WorkshopGPA.dll
+D:\งานวิชาต่างๆ\GitCats\WorkshopGPA\WorkshopGPA\WorkshopGPA\WorkshopGPA\bin\Debug\net8.0-windows\WorkshopGPA.pdb
+D:\งานวิชาต่างๆ\GitCats\WorkshopGPA\WorkshopGPA\WorkshopGPA\WorkshopGPA\obj\Debug\net8.0-windows\WorkshopGPA.Form1.resources
+D:\งานวิชาต่างๆ\GitCats\WorkshopGPA\WorkshopGPA\WorkshopGPA\WorkshopGPA\obj\Debug\net8.0-windows\WorkshopGPA.Properties.Resources.resources
+D:\งานวิชาต่างๆ\GitCats\WorkshopGPA\WorkshopGPA\WorkshopGPA\WorkshopGPA\obj\Debug\net8.0-windows\WorkshopGPA.csproj.GenerateResource.cache
+D:\งานวิชาต่างๆ\GitCats\WorkshopGPA\WorkshopGPA\WorkshopGPA\WorkshopGPA\obj\Debug\net8.0-windows\WorkshopGPA.GeneratedMSBuildEditorConfig.editorconfig
+D:\งานวิชาต่างๆ\GitCats\WorkshopGPA\WorkshopGPA\WorkshopGPA\WorkshopGPA\obj\Debug\net8.0-windows\WorkshopGPA.AssemblyInfoInputs.cache
+D:\งานวิชาต่างๆ\GitCats\WorkshopGPA\WorkshopGPA\WorkshopGPA\WorkshopGPA\obj\Debug\net8.0-windows\WorkshopGPA.AssemblyInfo.cs
+D:\งานวิชาต่างๆ\GitCats\WorkshopGPA\WorkshopGPA\WorkshopGPA\WorkshopGPA\obj\Debug\net8.0-windows\WorkshopGPA.csproj.CoreCompileInputs.cache
+D:\งานวิชาต่างๆ\GitCats\WorkshopGPA\WorkshopGPA\WorkshopGPA\WorkshopGPA\obj\Debug\net8.0-windows\WorkshopGPA.dll
+D:\งานวิชาต่างๆ\GitCats\WorkshopGPA\WorkshopGPA\WorkshopGPA\WorkshopGPA\obj\Debug\net8.0-windows\refint\WorkshopGPA.dll
+D:\งานวิชาต่างๆ\GitCats\WorkshopGPA\WorkshopGPA\WorkshopGPA\WorkshopGPA\obj\Debug\net8.0-windows\WorkshopGPA.pdb
+D:\งานวิชาต่างๆ\GitCats\WorkshopGPA\WorkshopGPA\WorkshopGPA\WorkshopGPA\obj\Debug\net8.0-windows\WorkshopGPA.genruntimeconfig.cache
+D:\งานวิชาต่างๆ\GitCats\WorkshopGPA\WorkshopGPA\WorkshopGPA\WorkshopGPA\obj\Debug\net8.0-windows\ref\WorkshopGPA.dll
